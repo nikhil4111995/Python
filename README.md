@@ -1,5 +1,5 @@
 Python covered Topics:
--Object and Data Structure Basics
+ Object and Data Structure Basics
 -Comparison Operators
 -Python Statements
 -Methods and Functions
@@ -10,3 +10,4 @@ Python covered Topics:
 -Generators
 -Numpy
 -Pandas
+-Web Scraping
